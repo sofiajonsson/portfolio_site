@@ -30,7 +30,7 @@ class App extends Component {
               < Route exact path='/' render={ () => <Home /> } />
               < Route path='/about' render={ () => <About /> } />
               < Route path='/projects' render={ () => <Projects /> } />
-              < Route path='/resume' render={ () => <PDFViewer backend={PDFJSBackend} src='/myPDF.pdf'/> } />
+              < Route path='/resume' render={ () => <PDFViewer backend={PDFJSBackend} src='/myPDF.pdf' /> } />
 
             </Switch>
           </div>

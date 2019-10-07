@@ -26,9 +26,9 @@ class Home extends Component {
 			  <div className="home-card">
 					<h1 className='user-name'> Sofia Jonsson</h1>
 					<h1 className="home-p-tag">Front-end web developer</h1>
-					<span>
+
 						<Link to="/about" style={{paddingLeft: 14, textDecoration: 'none'}}>About Me </Link>
-					</span>
+
 				</div>
 			  <div className="home-card">
 					<img src={require('../components/moab2.png')} className="home-img"/>
