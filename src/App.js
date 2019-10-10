@@ -25,7 +25,7 @@ class App extends Component {
 
 
         <Header />
-          <div className="Main Content">
+          <div className="main-content">
             <Switch>
               < Route exact path='/' render={ () => <Home /> } />
               < Route path='/about' render={ () => <About /> } />
