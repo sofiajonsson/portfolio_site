@@ -170,7 +170,7 @@ html, body, #root, .App {
 .projects-link{
   font-size: 1.5em;
   text-decoration: none;
-  style: bold;
+  font-weight: bold;
   color: black;
 }
 
