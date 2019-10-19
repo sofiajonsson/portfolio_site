@@ -72,7 +72,14 @@ html, body, #root, .App {
   font-family: 'Quicksand', sans-serif;
   position: relative;
   text-decoration: none;
+}
+.med-nav-a{
+  color: black;
 
+  font-size: 30px;
+  font-family: 'Quicksand', sans-serif;
+  position: relative;
+  text-decoration: overline;
 }
 
 .wrapper {

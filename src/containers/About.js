@@ -21,7 +21,10 @@ class About extends Component {
 					When I can get away from the screen, I am guaranteed to be outside and "getting after it". Depending on what time of the year it is, those activities will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
 
 			</p>
-			 <a position="center" className="sm-nav-a" id="home-pg-a"><Link to="/projects" style={{paddingLeft: 13, textDecoration: 'none'}}>Check Out My Projects </Link></a>
+			 	<Link to="/projects" className="med-nav-a" id="home-pg-a">
+					Check Out My Projects!
+				</Link>
+
 			<br />
 			<br />
 			<div>
