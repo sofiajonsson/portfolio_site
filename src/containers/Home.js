@@ -46,3 +46,34 @@ class Home extends Component {
 
 
 export default Home
+
+
+
+
+
+
+
+
+function O_log_n(i){
+
+}
+
+function O_n(i){
+
+}
+
+function O_n_log_n(i){
+
+}
+
+function O_n_sq(i){
+
+}
+
+function O_2_n(i){
+
+}
+
+function O_n_2(i){
+
+}
