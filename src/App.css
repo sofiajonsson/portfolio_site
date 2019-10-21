@@ -34,8 +34,6 @@ html, body, #root, .App {
   color: #61dafb;
 }
 .user-name {
-  /* margin-top: 400px; */
-  /* margin: 400px; */
   color: black;
   font-family: 'Quicksand', sans-serif;
   font-size: 7.5em;
@@ -58,7 +56,9 @@ html, body, #root, .App {
   font-family: 'Quicksand', sans-serif;
   /* text-shadow: 2px 2px 4px black; */
   /* top: 50%; */
+  top: 50%;
   left: 50%;
+  
   /* -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -129,12 +129,24 @@ html, body, #root, .App {
 
 }
 
-.home-card{
-  text-align: center;
+.home-card-1{
+  /* text-align: center; */
   border: grey solid 1px;
   padding: 1rem;
   width: 40rem;
   height: 45rem;
+  display: inline-grid;
+  /* margin: 1rem 1rem; */
+  padding: 60px;
+  position: relative;
+  border: none;
+}
+.home-card-2{
+  text-align: center;
+
+  padding: 1rem;
+  width: 30rem;
+  height: 35rem;
   display: inline-grid;
   margin: 1rem 1rem;
   padding: 60px;

@@ -8,14 +8,11 @@ class Home extends Component {
 
 		return(
 			<div className="wrapper">
-			  <div className="home-card">
+			  <div className="home-card-1">
 					<h1 className='user-name'> Sofia Jonsson</h1>
-
-
-						<Link to="/about">About Me </Link>
-
+					<h4 className='home-p-tag'> Front End Developer</h4>
 				</div>
-			  <div className="home-card">
+			  <div className="home-card-2">
 					<img src={require('../components/sofia-milo.jpeg')} className="home-img"/>
 				</div>
 			</div>
