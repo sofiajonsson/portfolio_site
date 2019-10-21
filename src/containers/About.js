@@ -10,7 +10,7 @@ class About extends Component {
 
 			<br/>
 
-			<img src={require('../components/sofia-milo.jpeg')}  className="prof-pic"></img>
+			<img src={require('../components/moab2.png')}  className="prof-pic"></img>
 			<br />
 			<br />
 			 <p className="general-p-tag">

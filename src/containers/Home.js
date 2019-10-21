@@ -10,13 +10,13 @@ class Home extends Component {
 			<div className="wrapper">
 			  <div className="home-card">
 					<h1 className='user-name'> Sofia Jonsson</h1>
-					<h1 className="home-p-tag">Front-end web developer</h1>
+
 
 						<Link to="/about">About Me </Link>
 
 				</div>
 			  <div className="home-card">
-					<img src={require('../components/moab2.png')} className="home-img"/>
+					<img src={require('../components/sofia-milo.jpeg')} className="home-img"/>
 				</div>
 			</div>
 
