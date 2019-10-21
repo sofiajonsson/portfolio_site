@@ -111,18 +111,14 @@ class Projects extends Component {
 					 <Link to="/about" className="med-nav-a" id="home-pg-a">
 						 Back to About Me
 					 </Link>
-					 
+
 					<br />
 					<br />
 					<br />
 			</div>
 
-
-
 		)
 	}
 }
-
-
 
 export default Projects

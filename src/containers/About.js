@@ -19,8 +19,8 @@ class About extends Component {
 					 With experience in Ruby on Rails, JavaScript, React, and a background in business and hospitality, I discovered my passion for code while searching for something to keep my mind stimulated after University. As a hospitality graduate, I have developed a strong skill set pertaining to organization, communication, and thriving under pressure. I enjoy learning new things in a fast paced environment and wish to move forward on this continuous learning path.
 					<br/> <br/>
 					When I can get away from the screen, I am guaranteed to be outside and "getting after it". Depending on what time of the year it is, those activities will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
-
 			</p>
+
 			 	<Link to="/projects" className="med-nav-a" id="home-pg-a">
 					Check Out My Projects!
 				</Link>
@@ -57,8 +57,6 @@ class About extends Component {
 			</div>
 			<br />
 			</div>
-
-
 
 		)
 	}
