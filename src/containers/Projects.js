@@ -109,7 +109,7 @@ class Projects extends Component {
 					<br />
 					 <p className="general-p-tag"> </p>
 					 <Link to="/about" className="med-nav-a" id="home-pg-a">
-						 Back to About Me
+						 Read About Me!
 					 </Link>
 
 					<br />

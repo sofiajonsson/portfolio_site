@@ -11,6 +11,9 @@ class Home extends Component {
 			  <div className="home-card-1">
 					<h1 className='user-name'> Sofia Jonsson</h1>
 					<h4 className='home-p-tag'> Front End Developer</h4>
+					<Link to="/projects" className="med-nav-a" id="home-pg-a">
+						Check Out My Projects!
+					</Link>
 				</div>
 			  <div className="home-card-2">
 					<img src={require('../components/sofia-milo.jpeg')} className="home-img"/>
