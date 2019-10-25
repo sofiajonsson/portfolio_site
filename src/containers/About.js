@@ -48,10 +48,6 @@ class About extends Component {
 		        <br />
 	      	</a>
 					<br />
-					<Link to="/resume">
-						<img src={require('../components/resume.png')} className="home-icon" alt="home-icon" style={{width: 50, height: 50}}></img>
-						<br />
-					</Link>
 				</div>
 
 			</div>
