@@ -76,7 +76,6 @@ html, body, #root, .App {
 }
 .med-nav-a{
   color: black;
-
   font-size: 30px;
   font-family: 'Quicksand', sans-serif;
   position: relative;
@@ -204,8 +203,14 @@ html, body, #root, .App {
 .container {
   padding: 2px 16px;
 }
-
-.general-p-tag{
+.general-h-tag {
+  position: centered;
+  color: black;
+  font-size: 2em;
+  text-decoration: underline;
+  font-family: 'Quicksand', sans-serif;
+}
+.general-p-tag {
   position: centered;
   color: black;
   font-size: 1.5em;

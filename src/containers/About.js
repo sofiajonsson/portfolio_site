@@ -20,7 +20,23 @@ class About extends Component {
 					<br/> <br/>
 					When I can get away from the screen, I am guaranteed to be outside and "getting after it". Depending on what time of the year it is, those activities will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
 			</p>
+				<h4 className="general-h-tag"> Skills </h4>
+				<p className="general-p-tag">
+					JavaScript <br/>
+					React.js <br/>
 
+				 	Ruby <br/>
+					Rails <br/>
+						<br/>
+					CSS3<br/>
+					SASS <br/>
+					Bootstrap<br/>
+					Semantic UI<br/>
+						<br/>
+					SQL <br/>
+					PostgreSQL<br/>
+					Heroku <br/>
+				</p>
 			 	<Link to="/projects" className="med-nav-a" id="home-pg-a">
 					Check Out My Projects!
 				</Link>
