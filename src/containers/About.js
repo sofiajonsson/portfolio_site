@@ -22,19 +22,26 @@ class About extends Component {
 			</p>
 				<h4 className="general-h-tag"> Skills </h4>
 				<p className="general-p-tag">
+				Front End Frameworks:
 					JavaScript <br/>
 					React.js <br/>
-
+					<br/>
+				Back End Frameworks:
 				 	Ruby <br/>
 					Rails <br/>
 						<br/>
+				Styling:
 					CSS3<br/>
 					SASS <br/>
 					Bootstrap<br/>
 					Semantic UI<br/>
 						<br/>
+				Databases:
 					SQL <br/>
 					PostgreSQL<br/>
+						<br/>
+				Hosting:
+					AWS <br/>
 					Heroku <br/>
 				</p>
 			 	<Link to="/projects" className="med-nav-a" id="home-pg-a">
