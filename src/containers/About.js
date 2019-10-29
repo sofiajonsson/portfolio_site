@@ -22,25 +22,25 @@ class About extends Component {
 			</p>
 				<h4 className="general-h-tag"> Skills </h4>
 				<p className="general-p-tag">
-				Front End Frameworks:
+				Front End Frameworks:<br/>
 					JavaScript <br/>
 					React.js <br/>
 					<br/>
-				Back End Frameworks:
+				Back End Frameworks:<br/>
 				 	Ruby <br/>
 					Rails <br/>
 						<br/>
-				Styling:
+				Styling:<br/>
 					CSS3<br/>
 					SASS <br/>
 					Bootstrap<br/>
 					Semantic UI<br/>
 						<br/>
-				Databases:
+				Databases:<br/>
 					SQL <br/>
 					PostgreSQL<br/>
 						<br/>
-				Hosting:
+				Hosting:<br/>
 					AWS <br/>
 					Heroku <br/>
 				</p>
