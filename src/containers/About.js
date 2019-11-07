@@ -38,7 +38,7 @@ class About extends Component {
 						<br/>
 				Databases:<br/>
 					SQL <br/>
-					PostgreSQL<br/>
+					
 						<br/>
 				Hosting:<br/>
 					AWS <br/>
