@@ -87,16 +87,10 @@ class About extends Component {
 	      	</a>
 					<br />
 				</div>
-
 			</div>
-			<br />
-			</div>
-
-
+		</div>
 		)
 	}
 }
-
-
 
 export default About

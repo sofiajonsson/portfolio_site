@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Header = () => (
 	<div>
 		<div class="ui fluid three item menu" id="ui-header">
-		<h3 class="item">
+		<h3 class="item" id="ui-header">
 			<Link to="/" className="nav-a">
 				Home
 			</Link>

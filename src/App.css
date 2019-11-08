@@ -30,7 +30,7 @@ html, body, #root, .App {
   margin-bottom: 30px;
 }
 #ui-header{
-  border: none;
+  color: white
 }
 #project-pic{
   height: 400px;
