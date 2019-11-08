@@ -88,9 +88,11 @@ class Projects extends Component {
 						</div>
 					</div>
 				</div>
+				<div class="ui divider"></div>
 
 				<div>
 				<p className="general-p-tag"> </p>
+				<br/>
 				<Link to="/about" className="med-nav-a" id="home-pg-a">
 					Read About Me!
 				</Link>

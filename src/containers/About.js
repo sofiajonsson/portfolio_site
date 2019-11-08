@@ -20,7 +20,11 @@ class About extends Component {
 					<br/> <br/>
 					When I can get away from the screen, I am guaranteed to be outside and "getting after it". Depending on what time of the year it is, those activities will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
 			</p>
+			<div class="ui divider"></div>
+
 				<h4 className="general-h-tag"> Skills </h4>
+				<div class="ui divider"></div>
+
 				<div class="ui three column divided grid">
 				  <div class="row">
 				    <div class="column">
@@ -58,7 +62,8 @@ class About extends Component {
 				    </div>
 				  </div>
 				</div>
-
+				<div class="ui divider"></div>
+						<br/>
 			 	<Link to="/projects" className="med-nav-a" id="home-pg-a">
 					Check Out My Projects!
 				</Link>
