@@ -30,7 +30,13 @@ html, body, #root, .App {
   margin-bottom: 30px;
 }
 #ui-header{
-  border-color: white
+  border-left-color: none;
+  border-right-color: none;
+  border-color: white;
+  box-shadow: none;
+}
+#home-content{
+  top: 25%;
 
 }
 #project-pic{

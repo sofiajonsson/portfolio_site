@@ -50,7 +50,7 @@ class About extends Component {
 							<p className="about-p-tag">
 								SQL <br/>
 							</p>
-						<h3 className="about-header-tag">Hoisting:</h3>
+						<h3 className="about-header-tag">Hosting:</h3>
 							<p className="about-p-tag">
 								AWS <br/>
 								Heroku <br/>
