@@ -30,10 +30,15 @@ html, body, #root, .App {
   margin-bottom: 30px;
 }
 #ui-header{
-  color: white
+  border-color: white
+
 }
 #project-pic{
   height: 400px;
+}
+
+#col-grid{
+  margin: 20px;
 }
 .App-link {
   color: #61dafb;
@@ -217,7 +222,7 @@ html, body, #root, .App {
 .general-h-tag {
   position: centered;
   color: black;
-  font-size: 2em;
+  font-size: 3em;
   text-decoration: underline;
   font-family: 'Quicksand', sans-serif;
 }
@@ -228,6 +233,17 @@ html, body, #root, .App {
   font-family: 'Quicksand', sans-serif;
   margin-left: 300px;
   margin-right: 300px;
+}
+.about-p-tag {
+  color: black;
+  font-size: 1.5em;
+  font-family: 'Quicksand', sans-serif;
+}
+.about-header-tag {
+  color: black;
+  font-weight:bold;
+  font-size: 2em;
+  font-family: 'Quicksand', sans-serif;
 }
 
 #menu-header {

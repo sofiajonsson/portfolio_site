@@ -12,11 +12,11 @@ class Projects extends Component {
 				<br />
 				<br />
 				<div>
-					<h4> * Note that "Live Site" option  is hosted on a free platform and takes a while to load *</h4>
+					<h4 className="general-p-tag"> * Note that "Live Site" option  is hosted on a free platform and takes a while to load *</h4>
 					<br/>
 				</div>
 
-				<div class="ui two column grid">
+				<div class="ui two column grid" id="col-grid">
 
 				  <div class="column">
 				    <div class="ui fluid card">

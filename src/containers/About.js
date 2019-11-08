@@ -24,21 +24,21 @@ class About extends Component {
 				<div class="ui three column divided grid">
 				  <div class="row">
 				    <div class="column">
-						<h3>Front End Frameworks:</h3>
-							<p>
+						<h3 className="about-header-tag">Front End Frameworks:</h3>
+							<p className="about-p-tag">
 								JavaScript <br/>
 								React.js <br/>
 								<br/>
 							</p>
-						<h3>Back End Frameworks:</h3>
-							<p>
+						<h3 className="about-header-tag">Back End Frameworks:</h3>
+							<p className="about-p-tag">
 								Ruby <br/>
 								Rails <br/>
 							</p>
 				    </div>
 				    <div class="column">
-							<h3>Styling:</h3>
-								<p>
+							<h3 className="about-header-tag">Styling:</h3>
+								<p className="about-p-tag">
 									CSS3<br/>
 									SASS <br/>
 									Bootstrap<br/>
@@ -46,12 +46,12 @@ class About extends Component {
 								</p>
 				    </div>
 				   <div class="column">
-						<h3>Databases:</h3>
-							<p>
+						<h3 className="about-header-tag">Databases:</h3>
+							<p className="about-p-tag">
 								SQL <br/>
 							</p>
-						<h3>Hoisting:</h3>
-							<p>
+						<h3 className="about-header-tag">Hoisting:</h3>
+							<p className="about-p-tag">
 								AWS <br/>
 								Heroku <br/>
 							</p>
