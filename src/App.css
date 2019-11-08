@@ -44,7 +44,8 @@ html, body, #root, .App {
 }
 
 #col-grid{
-  margin: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 .App-link {
   color: #61dafb;
