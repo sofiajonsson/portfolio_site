@@ -29,7 +29,12 @@ html, body, #root, .App {
   color: black;
   margin-bottom: 30px;
 }
-
+#ui-header{
+  border: none;
+}
+#project-pic{
+  height: 400px;
+}
 .App-link {
   color: #61dafb;
 }
@@ -102,8 +107,14 @@ html, body, #root, .App {
 .column-2 {
   flex: 50%;
   overflow: hidden;
-  grid-column: 3;
+  grid-column: 2;
   grid-row: 1;
+}
+.column-3 {
+  flex: 50%;
+  overflow: hidden;
+  grid-column: 1;
+  grid-row: 2;
 }
 
 .home-img {

@@ -21,44 +21,41 @@ class About extends Component {
 					When I can get away from the screen, I am guaranteed to be outside and "getting after it". Depending on what time of the year it is, those activities will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
 			</p>
 				<h4 className="general-h-tag"> Skills </h4>
-				<div class="ui three column divided grid">
-				  <div class="row">
-				    <div class="column">
-						<h3>Front End Frameworks:</h3>
-							<p>
-								JavaScript <br/>
-								React.js <br/>
+				<div className="ui grid">
+					<div className="three wide column">
+						<p className="general-p-tag">
+							Front End Frameworks:<br/>
+							JavaScript <br/>
+							React.js <br/>
+							<br/>
+						Back End Frameworks:<br/>
+						 	Ruby <br/>
+							Rails <br/>
 								<br/>
-							</p>
-						<h3>Back End Frameworks:</h3>
-							<p>
-								Ruby <br/>
-								Rails <br/>
-							</p>
-				    </div>
-				    <div class="column">
-							<h3>Styling:</h3>
-								<p>
-									CSS3<br/>
-									SASS <br/>
-									Bootstrap<br/>
-									Semantic UI<br/>
-								</p>
-				    </div>
-				   <div class="column">
-						<h3>Databases:</h3>
-							<p>
-								SQL <br/>
-							</p>
-						<h3>Hoisting:</h3>
-							<p>
-								AWS <br/>
-								Heroku <br/>
-							</p>
-				    </div>
-				  </div>
-				</div>
+						</p>
+					</div>
+				<div className="three wide column">
+					<p className="general-p-tag">
+						Styling:<br/>
+							CSS3<br/>
+							SASS <br/>
+							Bootstrap<br/>
+							Semantic UI<br/>
+								<br/>
+					</p>
+				<div className="three wide column">
+					<p className="general-p-tag">
+						Databases:<br/>
+						SQL <br/>
+							<br/>
 
+						Hosting:<br/>
+							AWS <br/>
+							Heroku <br/>
+						</p>
+					</div>
+				</div>
+				</div>
 			 	<Link to="/projects" className="med-nav-a" id="home-pg-a">
 					Check Out My Projects!
 				</Link>

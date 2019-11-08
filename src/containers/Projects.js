@@ -11,110 +11,116 @@ class Projects extends Component {
 				<br />
 				<br />
 				<br />
-
-				<h4> * Note that "Live Site" option  is hosted on a free platform and takes a while to load *</h4>
-				<div className='card'>
-					<div className='container'>
-						<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Pow Tracker</a>
-							<p className="projects-paragraph">React.js Front End, Ruby on Rails Back End</p>
-							<img
-								src="https://github.com/sofiajonsson/front_end_final/raw/master/pow_tracker_front_end.png"
-								alt="Avatar"
-								style={{ height: '400px', width: '600px'}}
-								>
-							</img>
-							<br/>
-							<br/>
-							<br/>
-
-						<h4>
-							<a href='https://www.youtube.com/watch?v=ZUXU7ZWpqD4' className='projects-link'>
-								View Demo
-							</a>
-						</h4>
-					</div>
+				<div>
+					<h4> * Note that "Live Site" option  is hosted on a free platform and takes a while to load *</h4>
+					<br/>
 				</div>
 
-				<div className='card'>
-					<div className='container'>
-						<a href="https://github.com/sofiajonsson/thrones_tracker" className="projects-header">Thrones Tracker</a>
-						<p className="projects-paragraph">Vanilla JavaScript Front End, Ruby on Rails Back End</p>
-							<img
-								src="https://github.com/sofiajonsson/thrones_tracker/raw/master/lib/art/got.png"
-								alt="Avatar"
-								style={{ height: '400px', width: '600px'}}
-								>
-							</img>
-							<br/>
-							<br/>
-							<br/>
+				<div class="ui two column grid">
 
-						<h4>
-							<a href='https://www.youtube.com/watch?v=Rjdswq375Ms' className='projects-link'>
-								View Demo
-							</a>
-						</h4>
+				  <div class="column">
+				    <div class="ui fluid card">
+							<div class="content">
+								<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Pow Tracker</a>
+							</div>
+				      <div class="image" >
+				        <img src="https://github.com/sofiajonsson/front_end_final/raw/master/pow_tracker_front_end.png" id="project-pic"/>
+				      </div>
+							<div class="content">
+								<p className="projects-paragraph">React.js Front End, Ruby on Rails Back End</p>
+ 						 			<a href='https://www.youtube.com/watch?v=ZUXU7ZWpqD4' className='projects-link'>
+ 							 			View Demo
+ 						 			</a>
+						 </div>
+				    </div>
+				  </div>
+
+
+					<div class="column">
+						<div class="ui fluid card">
+							<div class="content">
+								<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Thrones Tracker</a>
+							</div>
+							<div class="image">
+								<img src="https://github.com/sofiajonsson/thrones_tracker/raw/master/lib/art/got.png" id="project-pic"/>
+							</div>
+							<div class="content">
+								<p className="projects-paragraph">Vanilla JavaScript App</p>
+									<a href='https://www.youtube.com/watch?v=Rjdswq375Ms' className='projects-link'>
+										View Demo
+									</a>
+							</div>
+						</div>
 					</div>
-				</div>
 
-				<div className='card'>
-					<div className='container'>
-						<a href="https://roam-travel-app.herokuapp.com/" className="projects-header">
-							Roam
-						</a>
-							<p className="projects-paragraph">Ruby on Rails App</p>
-								<br/>
-								<br/>
 
-							<img
-								src="https://github.com/sofiajonsson/roam/raw/master/lib/art/roam_screenshot.png"
-								alt="Avatar"
-								style={{ height: '400px', width: '600px'}}
-								>
-							</img>
-								<br/>
-								<br/>
-
-							<h4>
+				<div class="column">
+					<div class="ui fluid card">
+						<div class="content">
+							<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Roam Travel App</a>
+						</div>
+						<div class="image">
+							<img src="https://github.com/sofiajonsson/roam/raw/master/lib/art/roam_screenshot.png" id="project-pic"/>
+						</div>
+						<div class="content">
+							<p className="projects-paragraph">Pure Ruby on Rails App</p>
 								<a href='https://roam-travel-app.herokuapp.com/' className='projects-link'>
 									View Live Site*
 								</a>
-							</h4>
+						</div>
 					</div>
 				</div>
 
-				<div className='card'>
-					<div className='container'>
-						<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Monthly Lineup Calendar App</a>
-							<p className="projects-paragraph">React.js Front End, Ruby on Rails Back End</p>
-							<img
-								src="https://github.com/sofiajonsson/back-end-calendar-app/raw/master/lib/art/calendar_pic.png"
-								alt="Avatar"
-								style={{ height: '400px', width: '600px'}}
-								>
-							</img>
-							<br/>
-							<br/>
-							<br/>
 
-						<h4>
+				<div class="column">
+					<div class="ui fluid card">
+						<div class="content">
+							<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Monthly Lineup Calendar App</a>
+						</div>
+						<div class="image">
+							<img src="https://github.com/sofiajonsson/back-end-calendar-app/raw/master/lib/art/calendar_pic.png" id="project-pic"/>
+						</div>
+					<div class="content">
+						<p className="projects-paragraph">React.js Front End, Ruby on Rails Back End</p>
 							<a href='https://github.com/sofiajonsson/front-end-calendar-app' className='projects-link'>
 								View GitHub
 							</a>
-						</h4>
+						</div>
 					</div>
 				</div>
 
-					<br />
-					<br />
-					 <p className="general-p-tag"> </p>
-					 <Link to="/about" className="med-nav-a" id="home-pg-a">
-						 Read About Me!
-					 </Link>
+				<div>
+				<p className="general-p-tag"> </p>
+				<Link to="/about" className="med-nav-a" id="home-pg-a">
+					Read About Me!
+				</Link>
+				</div>
 
-					<br />
-					<br />
-					<br />
+				</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			</div>
 
 		)
