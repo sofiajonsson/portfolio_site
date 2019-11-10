@@ -34,6 +34,8 @@ html, body, #root, .App {
   border-right-color: none;
   border-color: white;
   box-shadow: none;
+  border-style: none;
+  display: flex;
 }
 #home-content{
   top: 25%;
