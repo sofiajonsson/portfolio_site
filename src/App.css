@@ -226,8 +226,10 @@ html, body, #root, .App {
   color: black;
   font-size: 1.5em;
   font-family: 'Quicksand', sans-serif;
-  margin-left: 300px;
-  margin-right: 300px;
+  padding-left: 100px;
+  padding-right: 100px;
+  /* margin-left: 300px;
+  margin-right: 300px; */
 }
 .about-p-tag {
   color: black;
