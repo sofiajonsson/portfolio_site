@@ -13,7 +13,7 @@ class Home extends Component {
 				    <div class="column" id="home-content">
 							<div class="content" id="home-content">
 							<h1 className='user-name'>
-								Sofia
+								Ms. Sofia
 								<br/>
 								Jonsson
 							</h1>
