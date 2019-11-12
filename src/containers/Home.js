@@ -13,11 +13,11 @@ class Home extends Component {
 				    <div class="column" id="home-content">
 							<div class="content" id="home-content">
 							<h1 className='user-name'>
-								Ms. Sofia
+							 	Sofia
 								<br/>
 								Jonsson
 							</h1>
-							<h4 className='home-p-tag'> Front End Developer</h4>
+							<h4 className='home-p-tag'> Full Stack Developer</h4>
 							<br/>
 							<Link to="/projects" className="med-nav-a" id="home-pg-a">
 								Check Out My Projects!
