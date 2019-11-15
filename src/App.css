@@ -289,6 +289,7 @@ html, body, #root, .App {
 #contact-icons{
   display: inline-flex;
 }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
