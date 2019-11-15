@@ -21,7 +21,7 @@ class Projects extends Component {
 				  <div class="column">
 				    <div class="ui fluid card">
 							<div class="content">
-								<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Pow Tracker</a>
+								<a href="https://github.com/sofiajonsson/front_end_final" className="projects-header">Pow Tracker</a>
 							</div>
 				      <div class="image" >
 				        <img src="https://github.com/sofiajonsson/front_end_final/raw/master/pow_tracker_front_end.png" id="project-pic"/>
@@ -39,13 +39,13 @@ class Projects extends Component {
 					<div class="column">
 						<div class="ui fluid card">
 							<div class="content">
-								<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Thrones Tracker</a>
+								<a href="https://github.com/sofiajonsson/thrones_tracker" className="projects-header">Thrones Tracker</a>
 							</div>
 							<div class="image">
 								<img src="https://github.com/sofiajonsson/thrones_tracker/raw/master/lib/art/got.png" id="project-pic"/>
 							</div>
 							<div class="content">
-								<p className="projects-paragraph">Vanilla JavaScript App</p>
+								<p className="projects-paragraph">Vanilla JavaScript App, Ruby on Rails Back End</p>
 									<a href='https://www.youtube.com/watch?v=Rjdswq375Ms' className='projects-link'>
 										View Demo
 									</a>
@@ -57,7 +57,7 @@ class Projects extends Component {
 				<div class="column">
 					<div class="ui fluid card">
 						<div class="content">
-							<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Roam Travel App</a>
+							<a href="https://roam-travel-app.herokuapp.com/" className="projects-header">Roam Travel App</a>
 						</div>
 						<div class="image">
 							<img src="https://github.com/sofiajonsson/roam/raw/master/lib/art/roam_screenshot.png" id="project-pic"/>
@@ -75,7 +75,7 @@ class Projects extends Component {
 				<div class="column">
 					<div class="ui fluid card">
 						<div class="content">
-							<a href="https://github.com/sofiajonsson/front_end_finals" className="projects-header">Monthly Lineup Calendar App</a>
+							<a href="https://github.com/sofiajonsson/front-end-calendar-app" className="projects-header">Monthly Lineup Calendar App</a>
 						</div>
 						<div class="image">
 							<img src="https://github.com/sofiajonsson/back-end-calendar-app/raw/master/lib/art/calendar_pic.png" id="project-pic"/>
