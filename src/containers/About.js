@@ -27,13 +27,13 @@ class About extends Component {
 				<div class="ui three column divided grid">
 				  <div class="row">
 				    <div class="column">
-						<h3 className="about-header-tag">Front End Frameworks:</h3>
+						<h3 className="about-header-tag">Front-End:</h3>
 							<p className="about-p-tag">
 								JavaScript <br/>
 								React.js <br/>
 								<br/>
 							</p>
-						<h3 className="about-header-tag">Back End Frameworks:</h3>
+						<h3 className="about-header-tag">Back-End:</h3>
 							<p className="about-p-tag">
 								Ruby <br/>
 								Rails <br/>
