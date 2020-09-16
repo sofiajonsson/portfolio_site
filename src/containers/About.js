@@ -16,9 +16,17 @@ class About extends Component {
 			 <p className="general-p-tag">
 					I'm a Full stack web developer with a passion for travel and languages.
 					<br/> <br/>
-					 With experience in Ruby on Rails, JavaScript, React, and a background in business and hospitality, I discovered my passion for code while searching for something to keep my mind stimulated after University. As a hospitality graduate, I have developed a strong skill set pertaining to organization, communication, and thriving under pressure. I enjoy learning new things in a fast paced environment and wish to move forward on this continuous learning path.
+					 With experience in Ruby on Rails, JavaScript, React, Java and a background in business and hospitality,
+					  I discovered my passion for code while searching for something to keep my mind stimulated after University.
+						 As a hospitality graduate, I have developed a strong skill set pertaining to organization, communication,
+						 and thriving under pressure. I enjoy learning new things in a fast paced environment and wish to move forward
+						 on this continuous learning path. I am currently employed as an SDET I and enjoy the challenge of picking up
+						 Java on the job and learning how to think in a QA oriented way in order to minimize the bugs pushed out to production.
+						 Working as an SDET has allowed me to pick up new skills, alter my way of thinking, and really cherish the time I get to spend
+						 coding. 
+
 					<br/> <br/>
-					When I can get away from the screen, I am guaranteed to be outside and "getting after it". Depending on what time of the year it is, those activities will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
+					When I can get away from the screen, I am guaranteed to be outside doing activities. Depending on what time of the year it is, that will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
 			</p>
 			<div class="ui hidden divider"></div>
 				<h4 className="general-h-tag"> Skills </h4>
@@ -31,6 +39,7 @@ class About extends Component {
 							<p className="about-p-tag">
 								JavaScript <br/>
 								React.js <br/>
+								Java <br/>
 								<br/>
 							</p>
 						<h3 className="about-header-tag">Back-End:</h3>
@@ -51,7 +60,7 @@ class About extends Component {
 				   <div class="column">
 						<h3 className="about-header-tag">Databases:</h3>
 							<p className="about-p-tag">
-								SQL <br/>
+								SQL (PostgreSQL)<br/>
 							</p>
 						<h3 className="about-header-tag">Hosting:</h3>
 							<p className="about-p-tag">
