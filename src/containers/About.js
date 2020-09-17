@@ -20,10 +20,10 @@ class About extends Component {
 					  I discovered my passion for code while searching for something to keep my mind stimulated after University.
 						 As a hospitality graduate, I have developed a strong skill set pertaining to organization, communication,
 						 and thriving under pressure. I enjoy learning new things in a fast paced environment and wish to move forward
-						 on this continuous learning path. I am currently employed as an SDET I and enjoy the challenge of picking up
-						 Java on the job and learning how to think in a QA oriented way in order to minimize the bugs pushed out to production.
+						 on this continuous learning path. I am currently employed as an SDET I, and enjoy the challenge of picking up
+						 Java on the job and combing the skills of a QA and Developer to strategize and plan the automation of newly developed functionalities.
 						 Working as an SDET has allowed me to pick up new skills, alter my way of thinking, and really cherish the time I get to spend
-						 coding. 
+						 coding.
 
 					<br/> <br/>
 					When I can get away from the screen, I am guaranteed to be outside doing activities. Depending on what time of the year it is, that will include skiing, hiking, surfing, etc. and I love bringing my dog Milo with me!
