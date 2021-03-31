@@ -39,13 +39,13 @@ class About extends Component {
 							<p className="about-p-tag">
 								JavaScript <br/>
 								React.js <br/>
-								Java <br/>
 								<br/>
 							</p>
 						<h3 className="about-header-tag">Back-End:</h3>
 							<p className="about-p-tag">
 								Ruby <br/>
 								Rails <br/>
+								Java <br/>
 							</p>
 				    </div>
 				    <div class="column">
